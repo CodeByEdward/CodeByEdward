@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build cool
 ## 💻 Technologies and Tools I work with
 - **Languages**: Lua, JavaScript, HTML, CSS, SQL
 - **Frameworks**: **FiveM (vRP)**, Node.js
-- **Databases**: MySQL, SQLite
+- **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 - **Editor**: VS Code, Sublime Text
 
@@ -19,8 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build cool
 ![GitHub Streak](https://img.shields.io/badge/Contributions-+30%20days-yellowgreen)
 ![Lua Progress](https://img.shields.io/badge/Lua-70%25-brightgreen)
 ![JavaScript Progress](https://img.shields.io/badge/JavaScript-80%25-blue)
-![Projects](https://img.shields.io/badge/Projects%20Created-50-blue)
-![Stars](https://img.shields.io/badge/Stars%20Received-100-green)
+![Projects](https://img.shields.io/badge/Projects%20Created-20-blue)
 
 ---
 
